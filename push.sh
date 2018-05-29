@@ -1,4 +1,6 @@
 #!/bin/bash
+$1= "username"
+$2= "password"
 git add .
 echo "enter commit message"
 read msg 
